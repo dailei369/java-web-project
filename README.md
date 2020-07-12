@@ -128,7 +128,8 @@ if(allhavenum){
     	  formatCN="输入的格式不正确！格式：888.00";
       }
       return formatCN;
-    }
+   
+   }
 }
 
 
