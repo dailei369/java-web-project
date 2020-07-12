@@ -1,7 +1,7 @@
 # java-web-project
 package com.lh.bean;
 
-package com.lh.bean;
+
 
 public class StringUtil {
 	private String money;		
