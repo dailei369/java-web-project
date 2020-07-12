@@ -1,6 +1,8 @@
 # java-web-project
 package com.lh.bean;
 
+package com.lh.bean;
+
 public class StringUtil {
 	private String money;		
 	private String submoneyCN[]={"","拾","佰","仟"};									//表示数字位数的数组
@@ -130,5 +132,6 @@ if(allhavenum){
       return formatCN;
     }
 }
+
 
 
