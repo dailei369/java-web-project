@@ -84,6 +84,7 @@ if(allhavenum){
 				    havenum=false;
 			    }
 		    }
+		    
 	
 		    if(pos>=0&&pos<4){
     			if(!sigle.equals("0")){        
